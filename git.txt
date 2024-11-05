@@ -14,4 +14,5 @@
 14.git merge xx 把指定分支合并到当前分支之上。
 15.git remote -v 查看别名
 16.git renote add xx httpsxxxx 
-17.
+17.git push 库名 分支
+18.git pull 库名 分支
