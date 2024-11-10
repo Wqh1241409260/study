@@ -1,0 +1,18 @@
+1.git init 初始化本地库
+2.git status 查看当前状态
+3.git config --global user.name Wqh 设置用户名
+4.git config --global user.email 12414@qq.com 设置邮箱
+5.git add xxxx  把xxxx提交的缓存区
+6.git rm --cached xxx 删除缓存区文件
+7.git commit -m "版本号" 文件名 把文件提交本地库
+8.git log
+9.git reflog
+10.git reset --hard 1234567 切换本地库版本
+11.git branch xx  创建分支
+12.git branch -v 查看分支
+13.git checkout xx 切换分支
+14.git merge xx 把指定分支合并到当前分支之上。
+15.git remote -v 查看别名
+16.git renote add xx httpsxxxx 
+17.git push 库名 分支
+18.git pull 库名 分支
